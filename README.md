@@ -47,6 +47,12 @@ I am an active member of [Gentleman Programming](https://github.com/Gentleman-Pr
 
 AI supports the process; engineering judgment and fundamentals remain essential.
 
+## Selected open-source work
+
+- [Gentle AI PR #1588](https://github.com/Gentleman-Programming/gentle-ai/pull/1588): Added a Windows-safe file and stdin handoff for review artifacts, avoiding fragile PowerShell JSON quoting while enforcing bounded, regular-file inputs.
+- [Gentle AI PR #1587](https://github.com/Gentleman-Programming/gentle-ai/pull/1587): Tightened correction and replay boundaries in the review workflow, preventing unsupported retries while preserving compatibility with existing records.
+- [Gentle AI PR #1415](https://github.com/Gentleman-Programming/gentle-ai/pull/1415): Made Git Bash discovery deterministic across common Git for Windows layouts, so the tooling avoids unintended WSL fallbacks and runs more predictably.
+
 ## Engineering principles
 
 - Clear architecture that makes systems easier to understand and evolve.
