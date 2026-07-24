@@ -1,18 +1,28 @@
-<div align="center">
+<p align="center">
+  <strong>Daniel Rosales</strong><br />
+  Freelance Product Engineer
+</p>
 
-# Daniel Rosales
+<h1 align="center">Custom operational software for teams that need their rules to work in practice.</h1>
 
-**Freelance Product Engineer**
+<p align="center">
+  I translate business rules, controls, and workflows into maintainable enterprise software.
+</p>
 
-Building custom enterprise systems that turn business rules, controls, and operational workflows into maintainable software.
+<p align="center">
+  <a href="mailto:danelcan14@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email Daniel Rosales" /></a>
+  <a href="https://www.linkedin.com/in/daniel-rosales00/"><img src="https://img.shields.io/badge/LinkedIn-Daniel_Rosales-24292F?style=flat-square&logo=linkedin&logoColor=white" alt="Daniel Rosales on LinkedIn" /></a>
+</p>
 
-</div>
+## What I build
 
-## For clients
+| Focus | Outcome |
+| --- | --- |
+| Custom enterprise systems | Business processes translated into clear, dependable software. |
+| Rules, controls, and workflows | Day-to-day operations that are easier to run, understand, and evolve. |
+| Current work | An anonymized custom operational system with billing and business controls. |
 
-I work with teams that need a business process translated into clear, dependable software. The focus is on making complex rules and day-to-day operations easier to run, understand, and evolve.
-
-My work is grounded in readable code, thoughtful architecture, and deliberate review. I currently build a custom operational system that includes billing and business controls, applying those principles to real workflows without exposing client details.
+I work with teams that need complex operational logic made practical. The foundation is readable code, thoughtful architecture, and deliberate review.
 
 ## Core stack
 
@@ -25,15 +35,15 @@ My work is grounded in readable code, thoughtful architecture, and deliberate re
 
 ## Open-source collaboration
 
+I am an active member of [Gentleman Programming](https://github.com/Gentleman-Programming), collaborating through code, reviews, and triage.
+
 <p>
-  <a href="https://github.com/Gentleman-Programming/gentle-ai"><img src="https://img.shields.io/badge/Gentle_AI-Workflow-24292F?style=flat-square" alt="Gentle AI workflow" /></a>
-  <a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-Tooling-24292F?style=flat-square" alt="OpenCode tooling" /></a>
+  <a href="https://github.com/Gentleman-Programming/gentle-ai"><img src="https://img.shields.io/badge/Gentle_AI-5k%2B_GitHub_stars-24292F?style=flat-square&logo=github&logoColor=white" alt="Gentle AI, 5k plus GitHub stars" /></a>
+  <a href="https://github.com/Gentleman-Programming/engram"><img src="https://img.shields.io/badge/Engram-5k%2B_GitHub_stars-24292F?style=flat-square&logo=github&logoColor=white" alt="Engram, 5k plus GitHub stars" /></a>
 </p>
 
-- I am an active member of [Gentleman Programming](https://github.com/Gentleman-Programming).
-- I collaborate on [Gentle AI](https://github.com/Gentleman-Programming/gentle-ai) and [Engram](https://github.com/Gentleman-Programming/engram) through code, reviews, and triage.
-- Gentle AI and Engram are open-source projects with 5k+ GitHub stars each.
-- [OpenCode](https://opencode.ai/) supports planning, implementation, and review.
+- [Gentle AI](https://github.com/Gentleman-Programming/gentle-ai) and [Engram](https://github.com/Gentleman-Programming/engram) are open-source projects with 5k+ GitHub stars each.
+- [OpenCode](https://opencode.ai/) supports my planning, implementation, and review workflow.
 
 AI supports the process; engineering judgment and fundamentals remain essential.
 
@@ -44,7 +54,7 @@ AI supports the process; engineering judgment and fundamentals remain essential.
 - Continuous learning grounded in hands-on practice.
 - Practical products that solve real needs.
 
-## Contact
+## Start a conversation
 
 Need a custom system that makes your operational rules and controls easier to run? Let's discuss the workflow and the software it needs.
 
